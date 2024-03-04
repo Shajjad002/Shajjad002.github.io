@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?of6s0y');
+  src:  url('fonts/icomoon.eot?of6s0y#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?of6s0y') format('truetype'),
+    url('fonts/icomoon.woff?of6s0y') format('woff'),
+    url('fonts/icomoon.svg?of6s0y#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-google-plus-symbol:before {
+  content: "\e912";
+}
+.icon-arrows-1:before {
+  content: "\e913";
+}
+.icon-square:before {
+  content: "\e914";
+}
+.icon-hand:before {
+  content: "\e915";
+}
+.icon-quotation-mark:before {
+  content: "\e916";
+}
+.icon-commerce-2:before {
+  content: "\e917";
+}
+.icon-computer:before {
+  content: "\e918";
+}
+.icon-interface-1:before {
+  content: "\e919";
+}
+.icon-relax:before {
+  content: "\e91a";
+}
+.icon-bowl:before {
+  content: "\e91b";
+}
+.icon-null-1:before {
+  content: "\e91c";
+}
+.icon-null:before {
+  content: "\e91d";
+}
+.icon-nature-2:before {
+  content: "\e91e";
+}
+.icon-people-1:before {
+  content: "\e91f";
+}
+.icon-interface:before {
+  content: "\e920";
+}
+.icon-nature-1:before {
+  content: "\e921";
+}
+.icon-cup:before {
+  content: "\e900";
+}
+.icon-left-arrow:before {
+  content: "\e901";
+}
+.icon-cream:before {
+  content: "\e902";
+}
+.icon-three-1:before {
+  content: "\e903";
+}
+.icon-medical-1:before {
+  content: "\e904";
+}
+.icon-fruit:before {
+  content: "\e905";
+}
+.icon-arrows:before {
+  content: "\e906";
+}
+.icon-commerce-1:before {
+  content: "\e907";
+}
+.icon-clock:before {
+  content: "\e908";
+}
+.icon-commerce:before {
+  content: "\e909";
+}
+.icon-smiley:before {
+  content: "\e90a";
+}
+.icon-nature:before {
+  content: "\e90b";
+}
+.icon-people:before {
+  content: "\e90c";
+}
+.icon-petals:before {
+  content: "\e90d";
+}
+.icon-flower:before {
+  content: "\e90e";
+}
+.icon-medical:before {
+  content: "\e90f";
+}
+.icon-stack:before {
+  content: "\e910";
+}
+.icon-three:before {
+  content: "\e911";
+}

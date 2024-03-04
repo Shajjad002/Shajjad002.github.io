@@ -1,0 +1,181 @@
+@media (max-width: 1199px)
+{
+	.aside {
+		left: -300px;
+	}
+	.main-content{
+		padding-left: 0px;
+	} 
+	
+	.about-content .personal-info .info-iteam p span{
+		display: block;
+		margin-left: 0;
+	}
+
+}
+@media (max-width:991px)
+{
+	.main-content {
+		padding-left: 0px;
+		overflow: hidden;
+		padding: 0;
+	}
+	.home {
+		padding-top: 30px !important;
+		flex: 0 0 100%;
+		max-width: 100%;
+		display: inherit;
+		/* padding-bottom: 0px !important; */
+		height: auto !important;
+		min-height: auto !important;
+	}
+	.home .home-info {
+		flex: 0 0 100% !important;
+		max-width: 100%;
+	}
+	.home .home-img {
+		flex: 0 0 100%;
+		max-width: 100%;
+		display: none;
+	}
+	.service-iteam {
+		max-width: 50%;
+		position: relative;
+		flex: 0 0 50%;
+	}
+	.protfolio-iteam {
+		flex: 0 0 50%;
+		max-width: 50%;
+		position: relative;
+		margin-bottom: 25px;
+	}
+	.protfolio-iteam .protfolio-iteam-inner {
+		height: auto;
+	}
+	.protfolio-iteam .protfolio-iteam-inner .protfolio-img {
+		margin-bottom: 10px;
+	}
+	.contact {
+		padding: 0 10px;
+	}
+	.contact-info-iteam {
+		max-width: 65%;
+		flex: 0 0 50%;
+		/* margin-right: 5px; */
+		padding: 20px 5px;
+	}
+	.contact-info-iteam p {
+		font-size: 12px;
+		line-height: 15px;
+	}
+/*	.about-content .education {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.about-content .experience{
+		flex: 0 0 50%;
+		max-width: 50%;
+	}*/
+	.about-content .skills {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.about-content .personal-info {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.buttons a.btn {
+		margin-bottom: 15px;
+	}
+	.style-switcher .style-switcher-toggel {
+		top: -20px;
+	}
+	.style-switcher .s-icon i {
+		line-height: 40px;
+	}
+
+
+}
+@media (max-width:767px)
+{
+	.style-switcher .style-switcher-toggel {
+		top: -20px;
+	}
+	.style-switcher .s-icon i {
+		line-height: 40px;
+	}
+	.main-content {
+		padding-left: 0px;
+		overflow: hidden;
+		padding: 0;
+	}
+	.home {
+		padding-top: 30px !important;
+		flex: 0 0 100%;
+		max-width: 100%;
+		display: inherit;
+		/* padding-bottom: 0px !important; */
+		height: auto !important;
+		min-height: auto !important;
+	}
+	.home .home-info {
+		flex: 0 0 100% !important;
+		max-width: 100%;
+	}
+	.home .home-img {
+		flex: 0 0 100%;
+		max-width: 100%;
+		display: none;
+	}
+	.service-iteam {
+		max-width: 100%;
+		position: relative;
+		flex: 0 0 100%;
+	}
+	.protfolio-iteam {
+		flex: 0 0 100%;
+		max-width: 100%;
+		position: relative;
+		margin-bottom: 25px;
+	}
+	.contact {
+		padding: 0 10px;
+	}
+	.contact-info-iteam {
+		max-width: 65%;
+		flex: 0 0 50%;
+		/* margin-right: 5px; */
+		padding: 20px 5px;
+	}
+	.contact-info-iteam p {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.about-content .education {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.about-content .experience{
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.about-content .skills {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.about-content .personal-info {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.buttons a.btn {
+		margin-bottom: 15px;
+	}
+	.contact-form .form-group.col-6 {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+
+
+}
+
+
