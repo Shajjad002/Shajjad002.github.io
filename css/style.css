@@ -442,7 +442,7 @@ a{
 	position: relative;
 	padding: 0px 30px 0 30px;
 	text-align: justify;
-	padding-bottom: 40px;
+	padding-bottom: 30px;
 }
 .titmline-box .timline-iteam:last-child{
 	padding-bottom: 0;
@@ -476,7 +476,7 @@ a{
 }
 .timline-iteam h4.titmeline-title {
 	font-size: 18px;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	font-weight: 700;
 	text-transform: capitalize;
 	color: var(--text-black-900);
@@ -581,7 +581,7 @@ a{
 	text-transform: capitalize;
 }
 .protfolio-iteam .protfolio-iteam-inner p {
-	font-size: 16px;
+	font-size: 15px;
 	line-height: 25px;
 	color: var(--text-black-700);
 }
